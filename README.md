@@ -1,2 +1,2 @@
 # pytorch_learning
-曲龙良博士的pytorch教程笔记
+李沐深度学习笔记
